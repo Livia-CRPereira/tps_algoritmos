@@ -1,0 +1,23 @@
+== Data
+qua 21 out 2026 11:20:44 -03
+
+== Sistema
+Linux livia-caroline 6.8.0-87-generic #88-Ubuntu SMP PREEMPT_DYNAMIC Sat Oct 11 09:28:41 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+
+== CPU
+CPU(s):                               2
+Thread(s) per núcleo:                 1
+CPU(s) scaling MHz:                   100%
+CPU MHz máx.:                         1800,0000
+CPU MHz mín.:                         400,0000
+CPU(s) de nó0 NUMA:                   0,1
+
+== Memoria
+               total       usada       livre    compart.  buff/cache  disponível
+Mem.:           11Gi       7,9Gi       1,7Gi       754Mi       2,9Gi       3,5Gi
+
+== Compilador
+g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+
+== Python
+Python 3.12.3
